@@ -8,10 +8,3 @@
 [Home page](https://www.frontendmentor.io) 
 
 
-
-
-
-```
-
-
-
